@@ -1,6 +1,6 @@
 # Finer-Vision-Developer
 
-clone the project.
+Clone the project.
 Open new terminal
 Navigate to the api folder.
 Write the next line in the terminal 
