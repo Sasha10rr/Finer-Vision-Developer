@@ -6,7 +6,7 @@ const User = require("./models/User")
 
 const cors = require('cors');
 const corsOptions ={
-    origin:'http://localhost:3000', 
+    origin:'http://localhost:3001', 
     credentials:true,            //access-control-allow-credentials:true
     optionSuccessStatus:200
 }
@@ -29,6 +29,6 @@ app.post('/users',async (req,res) =>{
      
    
 })
-app.listen(8000,()=>{
+app.listen(8001,()=>{
     console.log("Server running")
 })
