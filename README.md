@@ -1,15 +1,11 @@
 # Finer-Vision-Developer
 
-Clone the project.
-Open new terminal
-Navigate to the api folder.
-Write the next line in the terminal 
-npm i cors
-npm start
+To run this project, run this command in both the api and client folder.
 
-open new terminal
-navigate to the client folder
-write:
-npm install
-npm start
+npm start  (yarn start)
+
+Also add cors for the server side
+
+npm i cors (yarn add cors)
+
 
